@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>OOP登录</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<h3>请登录您的账号</h3>
+	<div class="reg">
+	<form action="" method="post">
+		<div class="dataArea"><p>用户名：<input type="text" name="username"></p></div>
+		<div class="dataArea"><p>密&nbsp&nbsp&nbsp码：<input type="password" name="password"></p></div>
+		<div class="subArea"><p><input class="btn" type="submit" name="send" value="登录">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="">[返回上一层]</a></p></div>
+	</form>
+	</div>
+</body>
